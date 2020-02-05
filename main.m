@@ -21,7 +21,7 @@ fprintf('img2: found %d interest points\n', size(px2, 1));
 %% -------------------------------------------------------------------------
 fprintf('\n----- Part b: Generating histogram descriptor -----\n');
 
-descriptor_no_bins = 5; 
+descriptor_no_bins = 16; 
 window_size_descriptor = 10;
 D1 = descriptors_maglap(img1, px1, py1, window_size_descriptor, sigma, descriptor_no_bins);
 D2 = descriptors_maglap(img2, px2, py2, window_size_descriptor, sigma, descriptor_no_bins);
