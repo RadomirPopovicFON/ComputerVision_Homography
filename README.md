@@ -4,5 +4,5 @@ Homography estimator from Computer Vision course
 Tasks are the following: 
 - Given some low derivative image, transform it via regular affine transformation.
 - On the two images, match corner points given via Harris detector.
-- Based on matched points, assess whether the matched points are correct. [Check here for results](https://github.com/RadomirPopovicFON/ComputerVision_Homography/blob/master/output_16.jpg)
+- Based on matched points, assess whether the matched points are correct. (https://github.com/RadomirPopovicFON/ComputerVision_Homography/blob/master/output_16.jpg)
 - Compute Homography matrix.
