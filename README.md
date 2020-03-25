@@ -1,7 +1,7 @@
 # ComputerVision_Homography
 Homography estimator from Computer Vision course
 
-*Repository will be updated in the following period with more elaborated computations*
+*Repository will be updated in the following period with elaborated explanation/analysis of the metrics, further examples and more sophisticated image descriptors for achieving better results.*
 
 Tasks are the following: 
 - Given some low derivative image, transform it via regular affine transformation.
