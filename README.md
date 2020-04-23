@@ -8,3 +8,5 @@ Tasks are the following:
 - On the two images, match corner points given via Harris detector.
 - Based on matched points, assess whether the matched points are correct. (https://github.com/RadomirPopovicFON/ComputerVision_Homography/blob/master/output_16.jpg)
 - Compute Homography matrix.
+
+!()[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Homography-transl-bold.svg/972px-Homography-transl-bold.svg.png]
