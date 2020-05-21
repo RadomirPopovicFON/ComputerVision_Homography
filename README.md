@@ -1,7 +1,5 @@
 # ComputerVision_Homography
-Homography estimator from Computer Vision course
-
-*Repository will be updated in the following period with elaborated explanation/analysis of the metrics, further examples and more sophisticated image descriptors for achieving better results.*
+Testing/implementing the techniques matching, harris detection and homography estimation on a single transformed image.  
 
 Tasks are the following: 
 - Given some low derivative image, transform it via regular affine transformation.
