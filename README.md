@@ -1,5 +1,5 @@
 # ComputerVision_Homography
-Testing/implementing the techniques matching, harris detection and homography estimation on a single transformed image.  
+Testing/implementing the techniques of matching, harris detection and homography estimation on a single transformed image.  
 
 Tasks are the following: 
 - Given some low derivative image, transform it via regular affine transformation.
